@@ -40,7 +40,7 @@ import java.util.stream.Stream;
  *
  * Podeu fer aquesta entrega en grups de com a màxim 3 persones, i necessitareu com a minim Java 10.
  * Per entregar, posau a continuació els vostres noms i entregau únicament aquest fitxer.
- * - Nom 1: Raúl Sánchez fsds
+ * - Nom 1: Raúl Sánchez
  * - Nom 2: Hugo López García 33
  * - Nom 3: Alejandro Jesús Martínez Martínez
  *
